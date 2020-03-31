@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  
+}
+h1 {
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+ 
+}
+
+
+h2 {
+  position: absolute;
+  font-family: Helvetica;
+  top: -3px;
+  right: -2px;
+  margin: 2px;
+  padding-right: 25px;
+  padding-left: 25px;
+  border: solid black 1px; 
+}
+
+p {
+  width: 91%;
+  height: 222px;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  text-align: justify;
+  color: black;
+}
